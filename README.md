@@ -1,7 +1,7 @@
 # FakeNewsDetection
-Fake News Detection with Machine Learning - Spring 2022
+Fake News Detection with Machine Learning - July 2023
 
-Completed: 02/07/2022
+Completed: 02/07/2023
 
 
 # Overview
